@@ -9,8 +9,6 @@ Our project focused on **designing new ligands for the Histamine H1 receptor (HR
   - Machine Learning  
   - Docking  
 
-- `3RZE_5EH_A_1200.png` → Crystal structure visualization of HRH1 with co-crystallized ligand.  
-
 - Additional screenshots for intermediate results.  
 
 ## How to view the report
